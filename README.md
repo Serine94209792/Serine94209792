@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I am shy(Shi Haoyu) 😗
 
-<!--
-**Serine94209792/Serine94209792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### PhD student from Peking Union Medical College Hospital(PUMCH), graduated from Zhejiang University with bachelor's degree
+image/20250401222455_3.jpg
+- 🔭 I’m currently working on biomarker selection using machine learning
+- 🌱 I’m currently learning python/R/linux/snakemake languages and basic bioinformatic skills
+- 👯 I’m looking to collaborate on projects related with ML/DL/LLM
+- ⚡ Fun fact: I ***hate working***, I want to do anything except for working !!!!!!
+- 😇 I've always had trouble falling asleep since I was kid. So if I don't reply, I'm probably catching some Z's.
+！[image](image/20250401222406_3.jpg)
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
