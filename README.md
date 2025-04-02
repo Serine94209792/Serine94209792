@@ -1,6 +1,5 @@
 ## Hi, I am shy (Shi Haoyu) 😗😗😗😗😗
 
----
 
 ### ***PhD student from Peking Union Medical College Hospital(PUMCH)*** 
 ![image](image/20250401222455_3.jpg)
