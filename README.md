@@ -2,7 +2,7 @@
 
 
 ### ***PhD student from Peking Union Medical College Hospital(PUMCH)*** 
-![image](image/2025-04-04.gif)
+![image](image/2025-04-04-091626.gif)
 
 - 🎓 I graduated from ***Zhejiang University*** with bachelor's degree 
 - 🔭 I’m currently working on biomarker selection using machine learning
