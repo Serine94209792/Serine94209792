@@ -2,7 +2,7 @@
 
 
 ### ***PhD student from Peking Union Medical College Hospital(PUMCH)*** 
-![image](image/2025-04-04-091621.gif)
+
 
 - 🎓 I graduated from ***Zhejiang University*** with bachelor's degree 
 - 🔭 I’m currently working on biomarker selection using machine learning
@@ -11,7 +11,7 @@
 - ⚡ I ***hate working***, I want to do anything except for working !!!!!!
 - 😇 I've always had trouble falling asleep since I was kid. So if I don't reply, I'm probably catching some Z's.
 
-![image](image/20250401222406_3.jpg) ![image](image/20250401222455_3.jpg) 
+
 
 ---
 
